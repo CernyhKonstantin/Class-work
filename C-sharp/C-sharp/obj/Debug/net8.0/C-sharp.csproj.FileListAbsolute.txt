@@ -1,0 +1,14 @@
+C:\Users\konst\Desktop\C-sharp\C-sharp\bin\Debug\net8.0\C-sharp.exe
+C:\Users\konst\Desktop\C-sharp\C-sharp\bin\Debug\net8.0\C-sharp.deps.json
+C:\Users\konst\Desktop\C-sharp\C-sharp\bin\Debug\net8.0\C-sharp.runtimeconfig.json
+C:\Users\konst\Desktop\C-sharp\C-sharp\bin\Debug\net8.0\C-sharp.dll
+C:\Users\konst\Desktop\C-sharp\C-sharp\bin\Debug\net8.0\C-sharp.pdb
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.AssemblyInfoInputs.cache
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.AssemblyInfo.cs
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.dll
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\refint\C-sharp.dll
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.pdb
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\C-sharp.genruntimeconfig.cache
+C:\Users\konst\Desktop\C-sharp\C-sharp\obj\Debug\net8.0\ref\C-sharp.dll
